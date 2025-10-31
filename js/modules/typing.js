@@ -1,6 +1,6 @@
 export default function initTyping() {
   let letter = 0
-  const text = "     Axiom"
+  const text = "     Axioms"
 
   function typeWriter() {
     if (letter < text.length) {

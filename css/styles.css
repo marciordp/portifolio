@@ -533,6 +533,8 @@ a {
   transition: 0.5s;
 }
 
+
+
 .projeto-img:hover {
   transform: scale(110%);
   border-left: 5px solid rgba(101, 24, 180, 1);
